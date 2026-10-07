@@ -1,0 +1,8 @@
+{
+  "name": "Life Admin Autopilot",
+  "description": "Mobile-first AI assistant that turns confusing bills, insurance policies, and contracts into 10-second plain summaries, flags hidden traps, and automates deadline reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
